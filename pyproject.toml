@@ -1,0 +1,18 @@
+[project]
+name = "plantgrowth"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt>=5.0.0",
+    "groq>=1.0.0",
+    "joblib>=1.5.3",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "sqlite-utils>=3.39",
+    "streamlit>=1.53.1",
+    "ultralytics>=8.4.11",
+]

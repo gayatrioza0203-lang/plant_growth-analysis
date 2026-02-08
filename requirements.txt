@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+bcrypt
+groq
+matplotlib
+sqlite-utils
+altair
+ultralytics
+streamlit-webrtc
+cv2
+av
+
